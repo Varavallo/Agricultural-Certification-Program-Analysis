@@ -16,6 +16,8 @@ This repository contains a comprehensive dataset of various agricultural certifi
 
 - **Combined Approach**: Information on whether the programs integrate Life Cycle Assessment (LCA) and Ecosystem Services Assessment (ESA) methodologies.
 
+The acronyms Y “YES”; N “No”; P “Partially” indicate whether the Sustainability programs have certain characteristics.
+
 ## Intended Audience:
 
 This dataset is intended for environmental researchers, policy makers, sustainability consultants, and anyone interested in the intersection of agriculture, sustainability, and environmental management. It provides valuable insights for comparative analysis and understanding of various certification schemes across the globe.
